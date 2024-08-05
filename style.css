@@ -1,0 +1,45 @@
+body{
+  background-color: black;
+}
+#calc{
+  margin-top: 80px;
+  margin-left: 500px;
+}
+.button{
+  width: 80px;
+  height: 80px;
+  margin-left: 10px;
+  margin-top: 10px;
+  background-color: rgb(95, 95, 95);
+  color: white;
+  border: none;
+  border-radius: 40px;
+  font-size: 30px;
+}
+.textarea{
+  margin-left: 10px;
+  width:440px;
+  height: 70px;
+  background-color: black;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  font-size: 20px;
+}
+.button1{
+  width: 80px;
+  height: 80px;
+  margin-left: 10px;
+  margin-top: 10px;
+  background-color: orange;
+  color: white;
+  border: none;
+  border-radius: 40px;
+  font-size: 20px;
+}
+.button:hover{
+  background-color: gray;
+}
+.button1:hover{
+  background-color: rgb(231, 183, 95);
+}
